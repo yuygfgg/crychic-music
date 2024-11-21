@@ -1,2 +1,2 @@
-# crychic-music
-Storing music for crychic.net
+# crychic-net
+crychic.net
